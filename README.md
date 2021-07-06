@@ -1,6 +1,7 @@
 # Crop-Production-Prediction-with-EDA-using-Linear-Regression
 
 This project is a Linear Regression project which is used to predict the production of crops in India based on the different features
+Also i have Exploratory Data Analysis to analyse how diff features effect the production of the crops.
 
 # The input features are:-
 1. State name - Name of the state
